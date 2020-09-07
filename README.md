@@ -1,2 +1,2 @@
 # GrALa-Fis
-Fisikako Gradu Amaierako lanean garatutako programen kodeak.
+Errepositorio honetan Fisikako Gradu Amaierako lanean garatutako programen kodeak aurki daitezke.
